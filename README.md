@@ -1,6 +1,6 @@
 # 📚 Enhanced Online Bookstore System
 
-A robust, enterprise-grade multi-tier Java Web Application built upon the **Model-View-Controller (MVC)** architectural pattern. This project represents an advanced evolution from a core e-commerce book-searching and purchasing platform into a fully secured, role-based bookstore management ecosystem complete with administrative controls, advanced search sorting, and sales reporting.
+A robust, enterprise-grade multi-tier Java Web Application built upon the **Model-View-Controller (MVC)** architectural pattern. This project represents an advanced evolution from a core e-commerce book-searching and purchasing platform into a fully secured, role-based bookstore management ecosystem complete with administrative controls, advanced search sorting, and sales reporting.  Developed as a comprehensive coursework project for EIE3320 Object-Oriented Design and Programming.
 
 ---
 
@@ -97,3 +97,8 @@ SOURCE C:/project/sql/books.sql;
 * Browse and advanced-search books. 
 * Add books to cart and checkout. 
 * View previously purchased books.
+
+---
+
+### 👤 Author
+* Yuen Pak Hei — BSc in Information Security, The Hong Kong Polytechnic University 
